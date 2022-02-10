@@ -1,0 +1,6 @@
+[submodule "reminderBot"]
+	path = reminderBot
+	url = https://github.com/D-Joseph/reminderBot.git
+[submodule "DaBot"]
+	path = DaBot
+	url = https://github.com/D-Joseph/DaBot.git
